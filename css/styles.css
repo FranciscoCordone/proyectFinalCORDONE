@@ -296,7 +296,7 @@ footer .lineDiv {
 }
 
 form {
-  width: 500px;
+  width: 300px;
   padding: 30px;
   margin: auto;
   border-radius: 4px;
@@ -311,7 +311,7 @@ form h1 {
   text-align: center;
 }
 form .control, form textarea {
-  width: 100%;
+  width: 300px;
   background: #cccc;
   padding: 10px;
   margin-bottom: 10px;
@@ -320,14 +320,14 @@ form .control, form textarea {
 }
 form label {
   color: black;
-  font-size: 1.2em;
+  font-size: 1em;
   margin-bottom: 8px;
   text-transform: uppercase;
 }
 form .botton {
   text-transform: uppercase;
   background-color: #cccc;
-  width: 100%;
+  /*         width: 100%; */
   border: 1px solid #919191;
   padding: 12px;
   margin: 0;
