@@ -327,7 +327,7 @@ form label {
 form .botton {
   text-transform: uppercase;
   background-color: #cccc;
-  /*         width: 100%; */
+  width: 300px;
   border: 1px solid #919191;
   padding: 12px;
   margin: 0;
