@@ -1,0 +1,61 @@
+body{
+    font-family:'Roboto', sans-serif;
+}
+
+.logoText{
+
+    .tituloMenu{
+        display: inline-block;
+        color: black;
+        margin-top: 20px;
+        text-align: left;
+        font-size: $tituloPrincipal;
+        letter-spacing: 0.15em;
+        color: gray;
+        text-shadow:$shadowTitulo;
+    }
+    img{
+        float: left;
+    }
+}
+nav{
+    a{
+        text-decoration: none;
+    }
+    ul{
+        li{
+            font-size: 1.5em;
+
+        }
+    }
+    li:hover{
+        opacity: 0.5;
+    }
+}
+
+.bgGeneral{
+    background-color: $grisClaro;
+    height: auto;
+}
+
+
+/* FOOTER */
+
+footer{
+background-color:$grisClaro;
+h3{
+    margin-top: 20px;
+    font-size: $hTres;
+    color: black;
+    
+}
+p{
+    font-size: 1.2em;
+    color: #656565;
+}
+.lineDiv{
+    border-left: 3px solid rgb(0, 0, 0);
+    border-right: 3px solid rgb(0, 0, 0);
+}
+
+}

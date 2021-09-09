@@ -1,0 +1,33 @@
+    
+    .tituloGaleria{
+        h1{
+            text-align: center;
+            text-transform: uppercase;
+            font-size: $parrafoServ;
+            text-shadow: $parrafoShadow;
+            margin:100px;
+        }
+}
+.galeryFlex{
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-bottom: 30px;
+    
+    img{
+    -webkit-transition:all 0.5s ease; 
+    }
+    iframe{
+        -webkit-transition: all 0.5s ease;
+    }
+    :hover {
+        -webkit-transform:scale(1.10);
+        -moz-transform:scale(1.10);
+        -ms-transform:scale(1.10);
+        -o-transform:scale(1.10);
+        transform:scale(1.10);
+    }
+}
+    

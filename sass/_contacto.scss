@@ -1,0 +1,39 @@
+form{
+    width: 500px;
+    padding: 30px;
+    margin: auto;
+    border-radius: 4px;
+    color:black;
+    line-height: 20px;
+    
+    h1{
+        font-size: $hDos;
+        margin-top: 50px;
+        margin-bottom: 20px;
+        color: black;
+        text-align: center;
+    }
+    .control,textarea{
+        width: 100%;
+        background: #cccc;
+        padding: 10px;
+        margin-bottom: 10px;
+        border: 1px solid #919191;
+        font-size: 18px;
+    }
+    label{
+        color:black;
+        font-size: 1.2em;
+        margin-bottom: 8px;
+        text-transform: uppercase;
+    }
+    .botton{
+        text-transform: uppercase;
+        background-color:$grisClarito;
+        width: 100%;
+        border:1px solid #919191;
+        padding: 12px;
+        margin: 0;
+        margin-bottom: 100px;
+    }
+}
