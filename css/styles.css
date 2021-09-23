@@ -8,7 +8,7 @@ body {
   color: black;
   margin-top: 20px;
   text-align: left;
-  font-size: 3em;
+  font-size: 2.3em;
   letter-spacing: 0.15em;
   color: gray;
   text-shadow: 1px 1px 5px #919191;
@@ -30,24 +30,6 @@ nav li:hover {
 .bgGeneral {
   background-color: #dddd;
   height: auto;
-}
-
-/* FOOTER */
-footer {
-  background-color: #dddd;
-}
-footer h3 {
-  margin-top: 20px;
-  font-size: 1.2em;
-  color: black;
-}
-footer p {
-  font-size: 1.2em;
-  color: #656565;
-}
-footer .lineDiv {
-  border-left: 3px solid black;
-  border-right: 3px solid black;
 }
 
 .bgContenido {

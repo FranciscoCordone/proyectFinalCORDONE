@@ -1,6 +1,12 @@
 # proyectFinalCORDONE
+
+    <!-- Proyecto Final del curso de Desarrollo web de Coderhouse -->
+
+    Comisión: 22220.
+    Profesor: Rodrigo Zungi.
+    Tutora: Vanina Scilleta.
+
 TORNERÍA CORDONE
 
-Proyecto Final del curso de Diseñador web de Coderhouse
 https://disheartening-grove.000webhostapp.com/
 https://franciscocordone.github.io/proyectFinalCORDONE/
