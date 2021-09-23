@@ -14,4 +14,4 @@ https://franciscocordone.github.io/proyectFinalCORDONE/
 
 
 La página está hecha con: 
-HTML, CSS, BOOTSTRAP y SASS. - 
+HTML, CSS, BOOTSTRAP . -
